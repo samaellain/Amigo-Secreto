@@ -37,6 +37,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px 0 0;
+    height: 55%;
 }
 
 /* Seção de entrada */
@@ -54,7 +55,7 @@ body {
 
 /* Títulos */
 .main-title {
-    font-size: 48px;
+    font-size: 88px;
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
@@ -63,7 +64,7 @@ body {
 
 .section-title {
     font-family: "Inter", serif;
-    font-size: 36px;
+    font-size: 26px;
     font-weight: 700;
     color: var(--color-primary);
     margin: 10px 0;
@@ -136,7 +137,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #fa1de8dc;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
